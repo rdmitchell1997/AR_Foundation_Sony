@@ -935,7 +935,7 @@ GameObject:
   - component: {fileID: 4534366072762965845}
   m_Layer: 0
   m_Name: Sony_WH-H900N_headphones_model
-  m_TagString: Untagged
+  m_TagString: arObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
