@@ -52,7 +52,12 @@ public class PlaceOnTouch : MonoBehaviour
 
             if (spawnedObject == null)
             {
+                //here i am going to disable the script after we spawned the object simply due to us not
+                //to spawn another object after the first object. if the user wants to replace the object
+                //a reset scene function will be inplimented.
                 spawnedObject = Instantiate(prefabToPlace, hitPose.position, hitPose.rotation);
+                this.enabled = false;
+
             }
         }
     }

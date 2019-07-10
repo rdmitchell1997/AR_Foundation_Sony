@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.XR.ARFoundation;
+using UnityEngine.XR.ARSubsystems;
 
 //I employ a singleton code pattern to ensure only 1 AR_manager is ever present in the scene.
 public class AR_Manager : singleton<AR_Manager>

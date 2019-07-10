@@ -6,6 +6,9 @@ TagManager:
   tags:
   - sessionOrigin
   - arObject
+  - Video
+  - point
+  - plane
   layers:
   - Default
   - TransparentFX

@@ -238,5 +238,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabToPlace: {fileID: 6090301029914365285, guid: 357fde6f8d26f354ab9041dcc8e649e6,
     type: 3}
-  raycastManager: {fileID: 0}
+  raycastManager: {fileID: 6614121706958992221}
   spawnedObject: {fileID: 0}
