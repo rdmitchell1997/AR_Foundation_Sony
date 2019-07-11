@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 325790}
   - component: {fileID: 325791}
   m_Layer: 0
-  m_Name: Slider
+  m_Name: Rotate Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

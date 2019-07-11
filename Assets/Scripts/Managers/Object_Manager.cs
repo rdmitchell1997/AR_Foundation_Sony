@@ -13,16 +13,6 @@ public class Object_Manager : singleton<Object_Manager>
     //Getting a call to the ui manager (upon awake we will ensure it is assigned)
     [SerializeField]
     UI_Manager ui;
-
-    private void Awake()
-    {
-        //if the ui manager is unasigned
-        if (ui == null)
-        {
-            //We can get it by type as there is only 1 UI manager in the scene
-            ui = FindObjectOfType<UI_Manager>();
-        }
-    }
     void Update()
     {
         //Transform the rotation of both the 3D model and its buttons.

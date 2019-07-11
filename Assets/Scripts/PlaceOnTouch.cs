@@ -11,19 +11,16 @@ public class PlaceOnTouch : MonoBehaviour
     GameObject prefabToPlace;
 
     //A list of hit locations that we will call upon.
+    [SerializeField]
     static List<ARRaycastHit> raycastHits = new List<ARRaycastHit>();
 
+    [SerializeField]
     //Make a reference to the RaycastManger (On AR Session Origin Prefab)
-    public ARRaycastManager raycastManager;
+    ARRaycastManager raycastManager;
 
-
+    [SerializeField]
     // A container to hold the spawned object
-    public GameObject spawnedObject;
-
-    void Awake()
-    {
-        raycastManager = GetComponent<ARRaycastManager>();
-    }
+    GameObject spawnedObject;
 
     //function returning a bool, checking if we can get the position based on touch.
     bool TryGetTouchPosition(out Vector2 touchPosition)
