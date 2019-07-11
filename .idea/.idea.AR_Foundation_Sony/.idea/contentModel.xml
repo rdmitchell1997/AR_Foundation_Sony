@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\UOP\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\UOP\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_AR_Foundation_Sony.1831678298.00" t="ExcludeRecursive" />
+    <e p="C:\Users\UOP\Documents\GitHub\AR_Foundation_Sony" t="IncludeRecursive">
+      <e p="AR_Foundation_Sony.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Button_Look_At.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Game_Manager.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="AR_Manager.cs" t="Include" />
+            <e p="Object_Manager.cs" t="Include" />
+            <e p="UI_Manager.cs" t="Include" />
+          </e>
+          <e p="PlaceOnTouch.cs" t="Include" />
+          <e p="singleton.cs" t="Include" />
+          <e p="Startup_Canvas.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
