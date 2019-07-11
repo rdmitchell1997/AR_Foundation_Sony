@@ -12,7 +12,18 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Button_Look_At.cs">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <marker date="1562832812263" expanded="false" signature="6:78" ph="..." />
+                <marker date="1562832812263" expanded="true" signature="123:461" ph="{...}" />
+                <marker date="1562832812263" expanded="true" signature="226:345" ph="{...}" />
+                <marker date="1562832812263" expanded="true" signature="260:339" ph="{...}" />
+                <marker date="1562832812263" expanded="true" signature="403:459" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -21,16 +32,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Button_Look_At.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Button_Look_At.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Gmae_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Button_Look_At.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="131" />
     <option name="width" value="1440" />
@@ -98,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562832136338</updated>
-      <workItem from="1562832141031" duration="528000" />
+      <workItem from="1562832141031" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="528000" />
+    <option name="totallyTimeSpent" value="1124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -115,7 +127,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
@@ -168,7 +180,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Button_Look_At.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1562832812263" expanded="false" signature="6:78" ph="..." />
+            <marker date="1562832812263" expanded="true" signature="123:461" ph="{...}" />
+            <marker date="1562832812263" expanded="true" signature="226:345" ph="{...}" />
+            <marker date="1562832812263" expanded="true" signature="260:339" ph="{...}" />
+            <marker date="1562832812263" expanded="true" signature="403:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
