@@ -47,4 +47,4 @@ In the next day or 2 i will be releasing a signed .APK for unity to this project
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
